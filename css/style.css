@@ -2016,10 +2016,29 @@ span.error {
   border-right: 1px solid #222;
 }
 
+.logo-v1 {
+  height: 50px
+}
+
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+}
+
+.owl-carousel .owl-item img {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.logo-v1 > .gsap-reveal {
+  height: 100%;
+}
+
 .gsap-reveal {
   position: relative;
-  display: inline-block;
+  display: block;
   overflow: hidden;
+  height: 100%;
 }
 
 @media (max-width: 991.98px) {
