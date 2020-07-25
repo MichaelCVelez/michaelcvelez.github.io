@@ -2033,7 +2033,7 @@ span.error {
   align-items: center;
 }
 
-.owl-carousel .owl-item img {
+.owl-carousel .owl-item .company-logo {
   padding-left: 10%;
   padding-right: 10%;
 }
