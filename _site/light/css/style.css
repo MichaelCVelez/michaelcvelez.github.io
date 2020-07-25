@@ -1351,6 +1351,10 @@ figure.dotted-bg:before {
   font-size: 16px;
 }
 
+.skill-wrap {
+	padding-bottom: 2rem;
+}
+
 .counter-v1 .number-wrap {
   display: block;
 }
