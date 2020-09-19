@@ -2117,3 +2117,12 @@ span.error {
 .gsap-reveal-img .reveal-wrap .reveal-content .portfolio-item-content h3 {
   margin-bottom: 10px;
 }
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+}
